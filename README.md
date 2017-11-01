@@ -1,4 +1,4 @@
 # ios-app
 hello hello
 
-[abcd](ios-app/ab/hello)
+[abcd](./ab/hello)
